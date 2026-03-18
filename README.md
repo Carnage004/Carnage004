@@ -69,10 +69,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+<a href="www.linkedin.com/in/advait-valsangkar-3bb701332" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
 </a>
 </p>
+
 
 ---
 
